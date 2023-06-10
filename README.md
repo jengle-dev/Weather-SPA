@@ -9,5 +9,10 @@ Jennifer Engle
 ### Support
 
 ## Additional Resources
+* angularjs.org
+
 
 ## Roadmap
+
+
+npm install angular@1.8.2

@@ -4,7 +4,7 @@
   "description": "Single Page Application using Angular.JS to retrieve the weather forecast of a given City & State.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "ng serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jennifer Engle",
