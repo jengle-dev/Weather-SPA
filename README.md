@@ -14,6 +14,10 @@ Jennifer Engle
 
 
 ## Roadmap
+I will not be completing this project via the Udemy course, this is using an antiquated version of Angular and not supported any longer. I hope to continue working on this after I've gone through a different trianing. 
 
+This is discussing Angular JS from initial launch V.1 and as of May 2023, Angular JS is on V.16. 
+
+I'm switching to a different course from Udemy called <a href="https://www.udemy.com/share/105YbY3@W6am1VXu8Racf6W8IqyMabdFLdTniK14QZhDZUQPquJn2t-2wCEZpEtm4Q91SIFF/">Complete Angular Developer: Zero To Master</a>
 
 npm install angular@1.8.2
