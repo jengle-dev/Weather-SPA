@@ -10,6 +10,7 @@ Jennifer Engle
 
 ## Additional Resources
 * angularjs.org
+* https://cdnjs.com/libraries/angular.js
 
 
 ## Roadmap
